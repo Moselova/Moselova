@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Moselova
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on any project you feel i can help out with with my current skils which are html, css and javascript for now
-- 📫 How to reach me on twitter @musicaddict1097 
+- 📫 How to reach me on twitter mosesfaye9@gmail.com
 - website i've built that are live:
 - smileyaccessories.netlify.app
 - contestgame-site.netlify.app
-- moselova-portfolio.netlify.app (still working on it little by little but it's there)
+- 
 - 
 
 <!---
