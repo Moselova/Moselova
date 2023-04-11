@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Moselova
+- 👋 Hi, I’m Moses Faye Olamide
 - 👀 I’m interested in frontend web development
 - 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on any project you feel i can help out with with my current skils which are html, css and javascript for now
+- 💞 love music and anime
 - 📫 How to reach me: mosesfaye9@gmail.com
 - 
 - 
